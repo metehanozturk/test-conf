@@ -1,8 +1,13 @@
 {
-    "apiKey" : "57c483c7-06c3-46bf-ab0b-34c97b5acd98",
+    "apiKey" : "8a22a64d-11a5-44e9-9c31-2c7bb3518458",
+    "baseUrl" : "https://dffa54fc.ngrok.io",
+    "logLevel" : "debug",
     "actionMappings" : {
-        "Create" : {
-            "filePath": ""
-        }
-    }
+    	"echo" : {
+    		"source" : "local",
+    		"filePath" : "/Users/metehanozturk/Desktop/marid.sh"
+    	}
+    },
+    "pollerConf" : {},
+    "poolConf" : {}
 }
