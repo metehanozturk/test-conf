@@ -5,7 +5,7 @@
     "actionMappings" : {
         "echo" : {
             "source" : "local",
-            "filePath" : "/Users/metehanozturk/Desktop/marid.sh"
+            "filePath" : "/Desktop/marid.sh"
         }
     },
     "pollerConf" : {},
