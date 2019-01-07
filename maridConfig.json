@@ -1,6 +1,6 @@
 {
     "apiKey" : "8a22a64d-11a5-44e9-9c31-2c7bb3518458",
-    "baseUrl" : "https://64e39bb1.ngrok.io",
+    "baseUrl" : "https://66c28c88.ngrok.io",
     "logLevel" : "debug",
     "actionMappings" : {
         "echo" : {
